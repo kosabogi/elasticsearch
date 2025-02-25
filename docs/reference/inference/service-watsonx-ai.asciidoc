@@ -170,4 +170,4 @@ You can find on the https://cloud.ibm.com/iam/apikeys[API keys page of your acco
 <4> A valid API version parameter. You can find the active version data parameters https://cloud.ibm.com/apidocs/watsonx-ai#active-version-dates[here].
 <5> The maximum number of tokens per document before truncation. 
 <6> Whether to return the document text in the results. 
-<7> The number of top relevant documents to return. 
+<7> The number of top relevant documents to return.
